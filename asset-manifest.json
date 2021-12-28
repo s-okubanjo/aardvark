@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aardvark/static/css/main.b257b2ed.css",
+    "main.js": "/aardvark/static/js/main.0dd5a788.js",
+    "static/js/787.24a2f110.chunk.js": "/aardvark/static/js/787.24a2f110.chunk.js",
+    "index.html": "/aardvark/index.html",
+    "main.b257b2ed.css.map": "/aardvark/static/css/main.b257b2ed.css.map",
+    "main.0dd5a788.js.map": "/aardvark/static/js/main.0dd5a788.js.map",
+    "787.24a2f110.chunk.js.map": "/aardvark/static/js/787.24a2f110.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b257b2ed.css",
+    "static/js/main.0dd5a788.js"
+  ]
+}
